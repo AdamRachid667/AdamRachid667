@@ -1,16 +1,22 @@
-## Hi there 👋
+# Adam Rachid
 
-<!--
-**AdamRachid667/AdamRachid667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems programmer learning to build things that are fast and correct.
 
-Here are some ideas to get you started:
+Currently focused on Rust — memory safety, performance, and writing code that doesn't lie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Languages**
+- Rust (primary)
+- PHP, HTML
+
+**Building**
+- [`todo-api-rust`](https://github.com/AdamRachid667/todo-api-rust) — REST API in Rust
+
+**Learning**
+- Rust ownership model, lifetimes, async with Tokio
+- Systems programming fundamentals
+
+---
+
+📍 Belgium / Morocco
